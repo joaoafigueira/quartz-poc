@@ -1,2 +1,1 @@
-# quartz-poc
-Proof of concept of Quartz.NET
+# Proof of concept of Quartz.NET, a job scheduling system for .NET.
