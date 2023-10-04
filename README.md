@@ -1,1 +1,3 @@
-# Proof of concept of Quartz.NET, a job scheduling system for .NET.
+# Quartz.NET proof of concept. 
+
+Quartz.NET is a job scheduling system for .NET.
